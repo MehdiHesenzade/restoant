@@ -1,0 +1,221 @@
+
+
+.wrapper{
+    width: 80%;
+    margin:auto;
+}
+.container{ 
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+a{color:black;
+    text-decoration: none;
+    
+}
+.burger-logo{
+    float: left;
+}
+.burger-menu{
+    float: right;
+    padding-left: 20px;
+}
+.burger-ul{
+margin-right: 50px;
+   
+}
+.burger-li{
+    list-style: none;
+    float: left;
+    text-transform: uppercase;
+    padding-left: 10px;
+    font-size :15px;
+    
+    
+}
+.icon-sosial{
+}
+.icon i{
+    color:white;
+    float:left;
+    font-size:15px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: yellow;
+    margin-top:27px;
+    margin-left:24px;
+}
+
+
+.burger{ background-image: url(https://themes.jozoor.com/html/joo/entertainment/02/assets/images/slider/2.png);
+    padding:279px;
+   
+}
+
+.burger-text h1{color:white;
+    text-transform: uppercase;
+    font-size:70px;
+
+}
+.burger-text a{
+    font-size:16px;
+    text-transform: uppercase;
+    color:white;
+    border-radius:5px;
+    background-color: #e83c2e;
+    padding:15px 30px;
+   
+    
+}
+.qiymet{background-color: #e83c2e;
+    
+    
+}
+.bur-sec{ padding-top:50px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.bur-text h1{
+    font-size:47px;
+}
+.bur-img{ padding-left: 30px;
+}
+.bur-text p{
+    font-size:19px;
+    color:#797979;
+    
+}
+.bur-ul{
+    font-size:19px; 
+    color:#797979;
+    
+}
+.bur-li{
+    padding-bottom:30px;
+
+}
+.bur-text a{
+    font-size:16px;
+    padding:15px 40px;
+    background-color: #e83c2e;
+    color:white;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+.res-img{
+    display: flex;
+    
+}
+.images{
+    width: 33.33%;
+}
+.bur-menu{
+    text-align: center;
+}
+.bur-menu h3{
+    font-size:26px;
+    padding-top:70px;
+}.bur-menu h1{
+    font-size:47px;
+}
+.bur-menu p{font-size:20px;
+    color:#797979;
+}
+.promo{display: grid;
+    grid-template-columns: auto auto auto;
+    margin-bottom: 30px;
+    
+}
+.promo-img a{ text-align: center;
+   text-transform: uppercase;
+    font-size:20px;
+}
+.promo-img span{
+    color:red;
+    font-size: 20px;
+}
+.img-promo:hover{transform: scale(1.1);
+    transition: transform.5s;
+    
+}
+.full a{text-transform: uppercase;
+    color: white;
+    background-color:#e83c2e;
+    padding:15px 20px;
+    text-align: center;
+    border-radius: 4px;
+    
+    
+}
+.chris{text-align: center;
+    padding-top:50px;
+    
+    background-image: url(https://themes.jozoor.com/html/joo/entertainment/02/assets/images/background/black.png);
+  width: 658px;
+  height: 500px;
+ float: left;
+}
+.video{
+    float: right;
+}
+.chris span{
+    font-size: 150px;
+    color:yellow;
+    padding-bottom: 30px;
+    
+    
+}
+.chris h3{
+    color:white;
+    font-size:30px;
+}
+.chris p{
+    color:white;
+    font-size: 20px;
+    padding-top:30px;
+}
+.folow{
+    background-image: url(https://themes.jozoor.com/html/joo/entertainment/02/assets/images/background/grunge-2.png);
+}
+.insta{text-align: center;
+
+}
+.insta h3{padding-top: 60px;
+font-size: 30px;
+}
+.insta h1{
+    font-size:50px;
+}
+.insta p{
+    font-size: 20px;
+    color:#797979;
+    margin-bottom: 70px;
+}
+.insta-img{display:grid;
+    grid-template-columns: auto auto auto;
+    
+   
+}
+.imgaj{
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+.imgaj:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+}
+.our{background-color:#e83c2e;
+display: grid;
+grid-auto-columns: auto auto;
+}
+
+    
+.join h1{ color:white;
+    font-size: 30px;
+    }
+.join p{ color:#f0eaea;
+    font-size:20px;
+
+}
+.sub{
+  
+}
